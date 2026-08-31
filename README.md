@@ -1,6 +1,6 @@
 # FastAPI на Amvera
 
-Простой пример деплоя FastAPI в [Amvera](https://amvera.ru). 
+Простой пример деплоя FastAPI в [Amvera](https://amvera.ru/fastapi). 
 
 Это тестовое приложение показывает работу API, статических файлов и персистентное сохранение SQlite в постоянное хранилище Amvera.
 
