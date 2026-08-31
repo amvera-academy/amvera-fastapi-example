@@ -10,7 +10,7 @@ Celery нужен тогда, когда какую-либо долгую или
 
 1. Любое Python приложение, которое отправляет задачу;
 2. Redis из преднастроенных сервисов Amvera;
-3. Отдельное приложение с общим worker из репозитория [`amvera-fastapi-celery-worker-example`](https://github.com/latuk993/amvera-fastapi-celery-worker-example).
+3. Отдельное приложение с общим worker из репозитория [`amvera-fastapi-celery-worker-example`](https://github.com/amvera-academy/amvera-fastapi-celery-worker-example).
 
 Worker не зависит от FastAPI, Flask или Django. Его можно использовать с любым Python приложением.
 
